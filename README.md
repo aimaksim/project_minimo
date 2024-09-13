@@ -1,3 +1,3 @@
 # project_minimo
 
-Preview : 
+Preview : https://aimaksim.github.io/project_minimo/
